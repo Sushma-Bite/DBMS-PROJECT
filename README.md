@@ -1,1 +1,1 @@
-# DBMS-PROJECT
+# Student-Management-System
